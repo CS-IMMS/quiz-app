@@ -1,0 +1,14 @@
+.flex{
+    display: flex;
+    justify-content: end;
+    padding: 1px;
+}
+.active{
+    background: darkblue;
+    color: white;
+}
+
+.btn-jaune {
+    background: #ffc107;
+    cursor: pointer;
+}
